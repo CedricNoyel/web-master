@@ -14,7 +14,7 @@ url: "https://stack.inria.fr/blog/" # the base hostname & protocol for your site
 twitter_username: software_stack_
 repository: "Stack/blog"
 #github_username:
+encoding: utf-8
 
 # Build settings
 markdown: kramdown
-
