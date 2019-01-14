@@ -1,0 +1,26 @@
+---
+layout: post
+title: "aza"
+date: 2019-01-14
+categories: fantome
+---
+
+*By ezae*
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="margin-top: 0">
+      ezeza
+    </p>
+    <p style="margin-top: 0">
+      <img src="../../../../images-blog/IMG_20160720_184530.jpg" width="200" height="200">
+      
+    </p>
+    <p style="margin-top: 0">
+      dsd
+    </p>
+  </body>
+</html>
